@@ -1,7 +1,7 @@
 # Nous vous souhaitons la bienvenue sur la plateforme Stats AudienceMedias.
 <p> La pateforme Stats AudienceMedias vous propose les cinq (05) premiers
  médias pour chaque type de media, en fonction des indicateurs ( Notoriété,
- Taux d'audience hebdomadaire cumulée et Taux d'audience, et en tenant compte des differences variables. </p>
+ Taux d'audience hebdomadaire cumulée et Taux d'audience), et en tenant compte des differences variables. </p>
 
 # Comment télécharger et ouvrir les fichiers csv(Excel)  
 <ol>
