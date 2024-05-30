@@ -4,7 +4,7 @@
 # Comment télécharger et ouvrir les fichiers csv(Excel)  
 <ol>
 <li>Veuillez cliquez sur le bouton <b>télécharger CSV (excel) </b> pour récupérer le fichier.</li>
-<li>Une fois le téléchargement terminer, ouvrez votre logiciel Excel.</li>
+<li>Une fois le téléchargement terminer, ouvrez votre logiciel <b>Excel</b>.</li>
 <li>Et créez un nouveau classeur</li>
 <li>Accedez à l 'onglet <b>Données </b></li>
 <li> Puis à <b>Données externes</b> sur la gauche </li>
